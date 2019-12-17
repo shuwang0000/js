@@ -1,0 +1,1 @@
+- [execute-promises-sequentially](https://stackoverflow.com/questions/43082934/how-to-execute-promises-sequentially-passing-the-parameters-from-an-array)
